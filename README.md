@@ -9,7 +9,7 @@
 
 The Fediverse can connect people all across the world in meaningful ways — and through that we can make a more just, equitable and sustainable world.
 
-<b><u>Fediverse-native payments</u> can help people exchange value as seamlessly as they exchange ideas</b> — enabling more direct, accessible, inclusive, and resilient economic relationships that support a more equitable and open digital commons, while advancing **economic inclusion** and delivering broader **societal benefit**.
+***Fediverse-native payments* can help people exchange value as seamlessly as they exchange ideas** — enabling more direct, accessible, inclusive, and resilient economic relationships that support a more equitable and open digital commons, while advancing **economic inclusion** and delivering broader **societal benefit**.
 
 **Fediverse-native payments** open the door to forms of commerce that are not mediated by centralized gatekeepers — allowing people to build livelihoods, support their families, and participate in the global economy on their own terms.
 This shifts economic power away from a handful of powerful corporations and toward the communities and individuals who create value in the first place.
@@ -20,6 +20,10 @@ We are at the beginning of a new era of *human–computer interaction*, defined 
 Today, a small number of companies are already competing to control the infrastructure and interfaces through which these agents will operate.
 If that control consolidates, we risk recreating the same concentration of power that has defined previous generations of the Internet — with a handful of corporations mediating access, extracting value, and setting the rules.
 **Fediverse-native payments**, by contrast, offer an open, interoperable commerce layer that agents can use without reliance on centralized gatekeepers — ensuring that this next phase of the Internet remains pluralistic, competitive, and aligned with the interests of the people and communities it serves.
+
+**Fediverse-native payments** have the potential to be as transformative as **mobile money** was across parts of Africa, where services like M-Pesa dramatically expanded financial access for millions who had been excluded from traditional banking systems.
+Just as mobile money used simple mobile phones and local agent networks to bring millions of unbanked people into basic financial services, Fediverse-native payments use of Social Web infrastructure lets anyone who can communicate also send, receive, and earn money directly.
+This lowers barriers for underbanked or excluded communities, reduces dependence on gatekeeper platforms that can restrict access or change rules arbitrarily, and enables more resilient, peer-to-peer economic participation where individuals and small communities can take part in global commerce on their own terms.
 
 This vision is being realized through a project called **AssetFlow**, which aims to bring **Fediverse-native payments** into practice.
 
@@ -146,13 +150,13 @@ This allows **AssetFlow** to bridge:
 
 By separating identity (Fediverse) from settlement (Interledger), **AssetFlow** preserves the social-native model of addressing while leveraging existing global payment infrastructure for execution.
 
-## Sustainability
+## Project Sustainability
 
 **AssetFlow** is intended as a foundational protocol rather than an application-level service.
 
 Like core Internet protocols such as HTTP or SMTP, its purpose is to establish a minimal, interoperable layer that enables others to build higher-level systems on top of it.
 
-Once deployed, AssetFlow is not a centralized system that must be continuously operated or governed as a single product.
+Once deployed, **AssetFlow** is not a centralized system that must be continuously operated or governed as a single product.
 Instead, it becomes part of the broader Fediverse and Interledger ecosystem, where:
 
 * new implementations can emerge independently
