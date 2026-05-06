@@ -136,11 +136,17 @@ By separating identity (Fediverse) from settlement (Interledger), **AssetFlow** 
 
 ## Sustainability
 
-This project (**AssetFlow**) is similar to the creation of HTTP — a **bootstrapping** project — a project to bring a technology into existence and use.
-It is a project to create a protocol, and to create the initial implementations.
+**AssetFlow** is intended as a foundational protocol rather than an application-level service.
 
-Once the **AssetFlow** project has been completed, the ability to transfer funds from `@alice@example.com` to `@bob@host.example` (resolving to Interledger technologies) will be available to Mastodon, Pixelfed, Loops, PeerTube, and WriteFreely users.
+Like core Internet protocols such as HTTP or SMTP, its purpose is to establish a minimal, interoperable layer that enables others to build higher-level systems on top of it.
 
-It will exist.
-And, people will use it.
-And, it will bring into existence a **general-purpose technology** (**GPT**) that unlocks a wide range of other innovations and systems once it exists.
+Once deployed, AssetFlow is not a centralized system that must be continuously operated or governed as a single product.
+Instead, it becomes part of the broader Fediverse and Interledger ecosystem, where:
+
+* new implementations can emerge independently
+* infrastructure diversity increases resilience
+* innovation can occur without coordination bottlenecks
+
+In this sense, the **AssetFlow** project is designed to “bootstrap” a capability into existence: Fediverse-native value transfer between identities.
+
+Over time, this capability becomes a general-purpose building block for new forms of social and economic interaction across the Open Social Web.
