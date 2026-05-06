@@ -5,13 +5,21 @@
 
 ## Abstract
 
-The Fediverse can connect people in meaningful ways and through that we can make a more just, equitable and sustainable world.
+The Fediverse can connect people all across the world in meaningful ways — and through that we can make a more just, equitable and sustainable world.
 
-**Fediverse-native payments** can help people exchange value as seamlessly as they exchange ideas, enabling more direct, inclusive, and resilient economic relationships that support a more equitable and open digital commons, while advancing **economic inclusion** and delivering broader **societal benefit**.
+**Fediverse-native payments** can help people exchange value as seamlessly as they exchange ideas — enabling more direct, accessible, inclusive, and resilient economic relationships that support a more equitable and open digital commons, while advancing **economic inclusion** and delivering broader **societal benefit**.
 
 This vision is being realized through a project called **AssetFlow**, which aims to bring **Fediverse-native payments** into practice.
 
 **AssetFlow** will leverage **Interledger** technologies to enable open, interoperable value exchange across networks, aligning financial interaction with the same principles of openness and decentralization that underpin the Fediverse.
+
+## Objective
+
+The deliverables of the **AssetFlow** project is:
+
+* AssertFlow specification
+* AssetFlow SDK for Go, PHP, Ruby, TypeScript
+* AssetFlow integration (patch) for Mastodon, Pixelfed, Loops, PeerTube, WriteFreely
 
 ## Fellow
 
@@ -55,11 +63,19 @@ Taken together, this concentration of power limits economic agency and reduces t
 
 A more open and decentralized approach to social commerce is needed—one where people can participate in digital economies without being dependent on a small number of centralized intermediaries.
 
-All social commerce should not be owned and controlled by a small number of powerful corporations and billionaires.
-
-## Economic Inclusion
+All social commerce should not be controlled by a small number of powerful corporations.
 
 ## Potential for Impact
+
+**AssetFlow** gives the creator an option other than YouTube, TikTok, and Instagram.
+**AssetFlow** pull *total control** away from a small number of powerful corporations.
+
+The completion of the **AssetFlow** project overcomes the **coordination problem** and the **cold start problem** — by deploying **AssetFlow** to a large subset of the Fediverse.
+And, through **network effects**, giving others an incentive to adopt it, too.
+
+The completion of the **AssetFlow** project creates a **general-purpose technology** (**GPT**) that unlocks a wide range of other innovations and systems once it exists.
+
+## Economic Inclusion
 
 ## Sustainability
 
