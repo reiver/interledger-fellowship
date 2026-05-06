@@ -17,7 +17,7 @@ This vision is being realized through a project called **AssetFlow**, which aims
 
 The deliverables of the **AssetFlow** project is:
 
-* **AssertFlow specification** — defined in terms of the Fediverse technology suite of *acct-URI*, *ActivityPub*, *ActvityStreams*, *Ed25519*, *Fediverse IDs*, *JSON-LD*, *WebFinger*, etc, and how *Interledger* technologies are used
+* **AssertFlow specification** — defined in terms of the Fediverse technology suite of *acct-URI*, *ActivityPub*, *ActivityStreams*, *Ed25519*, *Fediverse IDs*, *JSON-LD*, *WebFinger*, etc, and how *Interledger* technologies are used
 * **AssetFlow SDK** for Go, PHP, Ruby, TypeScript
 * **AssetFlow integration** (patch) for Mastodon, Pixelfed, Loops, PeerTube, WriteFreely
 
@@ -116,7 +116,7 @@ Over time, this can help shift online economic participation from platform-const
 ## Interledger
 
 **AssetFlow** defines Fediverse-native payments in terms of the Fedivese's technology suite:
-acct-URI, ActivityPub, ActvityStreams, Ed25519, Fediverse IDs, JSON-LD, WebFinger, etc.
+acct-URI, ActivityPub, ActivityStreams, Ed25519, Fediverse IDs, JSON-LD, WebFinger, etc.
 
 **AssetFlow** uses **Interledger** as its settlement and transport layer for cross-network value exchange.
 
