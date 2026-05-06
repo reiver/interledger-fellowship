@@ -66,7 +66,7 @@ Why am I uniquely positioned to build this‽
 I am building **AssetFlow** based on my experience in **banking**, **fintech**, **payments infrastructure**, **identity systems**, and **social platforms**.
 
 I am a veteran technologist in these areas, with a deep understanding of how these industries and technologies work.
-As well as a knowhow of how to navigate the regulatory environments in which they exist in.
+As well as a knowhow of how to navigate the regulatory environments in which they exist.
 
 I have already successfully created services in this space, now used by millions of people:
 
