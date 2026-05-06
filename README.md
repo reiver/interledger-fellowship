@@ -17,9 +17,9 @@ This vision is being realized through a project called **AssetFlow**, which aims
 
 The deliverables of the **AssetFlow** project is:
 
-* AssertFlow specification
-* AssetFlow SDK for Go, PHP, Ruby, TypeScript
-* AssetFlow integration (patch) for Mastodon, Pixelfed, Loops, PeerTube, WriteFreely
+* **AssertFlow specification** — defined in terms of the Fediverse technology suite of *acct-URI*, *ActivityPub*, *ActvityStreams*, *Ed25519*, *Fediverse IDs*, *JSON-LD*, *WebFinger*, etc, and how *Interledger* technologies are used
+* **AssetFlow SDK** for Go, PHP, Ruby, TypeScript
+* **AssetFlow integration** (patch) for Mastodon, Pixelfed, Loops, PeerTube, WriteFreely
 
 And, through this, the ability for `@alice@example.com` to send funds to `@bob@host.example` just by using his Fedivese ID, without having to deal with or even know about Bob's IBAN, sort-code, account-number, routing-number, etc.
 
