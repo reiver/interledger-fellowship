@@ -23,7 +23,7 @@ The deliverables of the **AssetFlow** project is:
 * **AssetFlow SDK** for Go, PHP, Ruby, TypeScript
 * **AssetFlow integration** (patch) for Mastodon, Pixelfed, Loops, PeerTube, WriteFreely
 
-And, through this, the ability for `@alice@example.com` to send funds to `@bob@host.example` just by using his Fedivese ID, without having to deal with or even know about Bob's IBAN, sort-code, account-number, routing-number, etc.
+And, through this, the ability for `@alice@example.com` to send funds to `@bob@host.example` just by using his Fedivese ID — without having to deal with or even know about Bob's IBAN, sort-code, account-number, routing-number, etc.
 
 ## Fellow
 
