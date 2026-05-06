@@ -7,7 +7,7 @@
 
 The Fediverse can connect people in meaningful ways and through that we can make a more just, equitable and sustainable world.
 
-**Fediverse-native payments** can help people exchange value as seamlessly as they exchange ideas, enabling more direct, inclusive, and resilient economic relationships that support a more equitable and open digital commons, while advancing economic inclusion and delivering broader societal benefit.
+**Fediverse-native payments** can help people exchange value as seamlessly as they exchange ideas, enabling more direct, inclusive, and resilient economic relationships that support a more equitable and open digital commons, while advancing **economic inclusion** and delivering broader **societal benefit**.
 
 This vision is being realized through a project called **AssetFlow**, which aims to bring **Fediverse-native payments** into practice.
 
@@ -35,30 +35,27 @@ My formal academic background is in **computer science**, **mathematics**, **art
 
 ## Need
 
-The Internet, the Web, and social-media are places of commerce.
-Are online economies where creators, businesses, and workers generate income and build livelihoods.
-Are places where people make a living to pay their rent and support their families.
+The Internet, the Web, and social media have become central venues for commerce.
+They are not just places where people connect — they are economies where creators, businesses, and workers earn income, build livelihoods, and support their families.
 
-Someone who wants to make a living as a content creator has little choice but to get locked into YouTube, or to a lesser degree TikTok and Instagram.
+Yet participation in these economies is increasingly mediated by a small number of powerful platforms.
 
-This brings a significant risk: creators can lose access to their audience overnight due to account suspensions, policy changes, or opaque moderation decisions.
-In some cases, entire channels are removed without recourse, severing the connection to followers and eliminating a creator’s primary source of income.
-This concentration of power limits economic agency and undermines the resilience of independent creators.
+For creators, making a living often means relying on platforms like YouTube, TikTok, or Instagram.
+This creates a structural vulnerability: access to audiences — and therefore income — can be lost overnight due to account suspensions, policy changes, or opaque moderation decisions.
+In some cases, entire channels disappear without recourse, severing critical economic relationships.
 
-The broader Web and Internet are no better.
+This fragility extends across the broader Web.
 
-Companies like Amazon, Alibaba Group, and eBay dominate huge portions of online shopping — if Amazon decides to remove your product, they can *and have* done so without explanation or chance of an appeal.
-Firms like Google, Apple, and Meta Platforms influence how people discover products — if your business depends on search rankings, app stores, or ads, these companies have enormous indirect power.
-Transactions rely on systems run by companies like Visa, Mastercard, and services like PayPal — they can approve, deny, or restrict payments, which gives them leverage over what kinds of commerce can happen.
-Cloud services like Amazon Web Services and Shopify power many online stores — if these services change pricing or policies, it ripples across the internet economy.
+Large marketplaces such as Amazon, Alibaba, and eBay control significant portions of online commerce, with the ability to remove products or sellers unilaterally.
+Discovery is heavily influenced by companies like Google, Apple, and Meta, whose control over search, app distribution, and advertising shapes which businesses succeed.
+Payments depend on centralized networks like Visa, Mastercard, and PayPal, which can restrict or deny transactions.
+Meanwhile, cloud and commerce infrastructure providers such as Amazon Web Services and Shopify underpin much of the digital economy, meaning policy or pricing changes can have wide-reaching effects.
 
-All social commerce should not be owned and controlled by large corporations or billionaires.
+Taken together, this concentration of power limits economic agency and reduces the resilience of online livelihoods.
 
-## Introduction
+A more open and decentralized approach to social commerce is needed—one where people can participate in digital economies without being dependent on a small number of centralized intermediaries.
 
-**AssetFlow** is a technology to enable **native** payments for the **Fediverse** and the **Social Web**.
-
-**AssertFlow** is a **general-purpose technology** (**GPT**) that unlocks a wide range of other innovations and systems once it exists — as well as being a tool for **economic inclusion** and **societal benefit**.
+All social commerce should not be owned and controlled by a small number of powerful corporations and billionaires.
 
 ## Economic Inclusion
 
