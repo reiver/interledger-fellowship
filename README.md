@@ -15,7 +15,9 @@
 
 ## Sustainability
 
-This project (**AssetFlow**) is a **bootstrapping** project.
+This project (**AssetFlow**) is a **bootstrapping** project — it is a project to bring a technology into existence.
 It brings into existence a **general-purpose technology** (**GPT**) that unlocks a wide range of other innovations and systems once it exists.
+
+Once the **AssetFlow** technologies exist, and are integrated into popular extant Socal Web and Fediverse software, it unlocks a wide range of other innovations and systems — as well as being a tool for **economic inclusion** and **societal benefit**.
 
 ## Interledger
