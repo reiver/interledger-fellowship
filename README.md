@@ -84,31 +84,23 @@ These all significantly reduce execution risk for this proposal.
 
 ## Need
 
-The Internet, the Web, and social media have become central venues for commerce.
-They are not just places where people connect — they are economies where creators, businesses, and workers earn income, build livelihoods, and support their families.
+The **Internet**, the **Web**, and **social-media** have become central venues for **commerce**.
+They are not just places where people connect — **they are economies** where creators, businesses, and workers earn income, build livelihoods, and support their families.
 
 Yet participation in these economies is increasingly mediated by a small number of powerful platforms.
 
-For creators, making a living often means relying on platforms like YouTube, TikTok, or Instagram.
-This creates a structural vulnerability: access to audiences — and therefore income — can be lost overnight due to account suspensions, policy changes, or opaque moderation decisions.
-In some cases, entire channels disappear without recourse, severing critical economic relationships, and loss of ones (sometimes only) source of income.
+For creators, relying on services like YouTube, TikTok, or Instagram creates structural vulnerability: access to audiences — and therefore income — can be lost overnight due to account suspensions, policy changes, or opaque moderation decisions.
+Entire channels or stores can disappear without recourse, severing critical economic relationships.
 
-Even peer-to-peer marketplaces such as eBay and Facebook Marketplace extend this pattern of platform dependence, where individuals and small businesses rely on centralized systems for listing, discovery, and transaction flow.
-Sellers can face sudden account restrictions, delisting, or reduced visibility through opaque ranking and enforcement mechanisms, often with limited transparency or recourse
-As a result, access to buyers and income streams remains mediated by platform policies and algorithms, reinforcing structural dependence on intermediaries even in ostensibly decentralized or peer-to-peer commerce environments.
+Even peer-to-peer marketplaces such as eBay or Facebook Marketplace extend this dependency.
+Sellers face sudden restrictions, delisting, or reduced visibility through opaque ranking and enforcement mechanisms. Access to buyers and income streams remains controlled by platform policies and algorithms, reinforcing reliance on centralized intermediaries even in systems that appear decentralized.
 
-This fragility extends across the broader Web.
-
-Large marketplaces such as Amazon, Alibaba, and eBay control significant portions of online commerce, with the ability to remove products or sellers unilaterally.
-Discovery is heavily influenced by companies like Google, Apple, and Meta, whose control over search, app distribution, and advertising shapes which businesses succeed.
-Payments depend on centralized networks like Visa, Mastercard, and PayPal, which can restrict or deny transactions.
-Meanwhile, cloud and commerce infrastructure providers such as Amazon Web Services and Shopify underpin much of the digital economy, meaning policy or pricing changes can have wide-reaching effects.
+This fragility extends to the broader Web.
+Large marketplaces like Amazon, Alibaba, and eBay can remove products or sellers unilaterally.
+Search and discovery are shaped by companies like Google, Apple, and Meta. Payments rely on networks like Visa, Mastercard, and PayPal, while cloud infrastructure from providers such as AWS or Shopify underpins much of the digital economy. Policy or pricing changes at any of these points can have wide-reaching effects.
 
 Taken together, this concentration of power limits economic agency and reduces the resilience of online livelihoods.
-
-A more open and decentralized approach to social commerce is needed—one where people can participate in digital economies without being dependent on a small number of centralized intermediaries.
-
-All social commerce should not be controlled by a small number of powerful corporations.
+**All social commerce should not be controlled by a small number of powerful corporations.**
 
 ## Impact
 
