@@ -90,6 +90,29 @@ As interoperability increases, new forms of social and economic interaction may 
 
 ## Economic Inclusion
 
+The current global financial system excludes or marginalizes significant portions of the world’s population.
+Barriers such as lack of formal identification, limited access to banking infrastructure, high remittance fees, currency conversion friction, and restrictive account requirements prevent many individuals and communities from fully participating in digital and cross-border economies.
+
+Even for those who are banked, access is often mediated through intermediaries that impose fees, delays, and policy constraints that are not transparent or user-controlled.
+This creates a structural divide between those who can participate seamlessly in global digital commerce and those who cannot.
+
+**AssetFlow** is designed to contribute to economic inclusion by lowering these barriers at the protocol level within the Fediverse.
+
+By enabling value exchange through Fediverse identifiers rather than traditional banking identifiers, AssetFlow reduces dependency on specific financial institutions and simplifies participation in global economic activity. A user only needs a Fediverse identity to send or receive value, abstracting away the complexity and exclusivity of legacy financial rails.
+
+Through integration with **Interledger**, AssetFlow can support interoperability across diverse payment networks, including both traditional financial systems and emerging digital wallets. This enables:
+
+* **Lower-cost cross-border transfers**, reducing reliance on high-fee remittance providers
+* **Improved access for underbanked and unbanked users**, who may not have access to traditional account-based systems
+* **Frictionless micropayments**, enabling new models of participation, tipping, and community support that are not economically viable under card-based fee structures
+* **Broader geographic participation**, allowing creators, developers, and communities in the Global South to participate on more equal footing
+* **Reduced gatekeeping by platforms and financial intermediaries**, enabling direct economic relationships between individuals
+
+Importantly, this model supports incremental participation.
+Users and services can adopt **AssetFlow** without requiring universal coordination or migration, allowing inclusion to grow organically as more Fediverse instances and applications connect to the network.
+
+Over time, this can help shift online economic participation from platform-constrained systems toward open, identity-native financial interactions, where access is determined by connectivity rather than institutional permission.
+
 ## Interledger
 
 **AssetFlow** is a protocol for Fediverse-native payments that integrates with the extant Fedivese technology suite:
