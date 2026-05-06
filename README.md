@@ -100,3 +100,5 @@ Once the **AssetFlow** technologies exist, and are integrated into popular extan
 **AssetFlow** is a protocol for Fediverse-payments that integrates with the extant Fedivese technology suite:
 ActvityPub, ActvityStreams, JSON-LD, WebFinger, etc.
 
+**AssetFlow** will resolve a transfer from Fediverse ID `@alice@example.com` to `@bob@host.example` to Interledger technologies.
+And leverage it for the actual transfer.
