@@ -59,9 +59,24 @@ My formal academic background is in **computer science**, **mathematics**, **art
 * Contributor to the **WHATWG** standards working group
 * Co-author of a software engineering book
 
-I am building **AssetFlow** based on a combination of experience in **banking**, **fintech**, **payments infrastructure**, **identity systems**, and **social platforms**.
-This project sits directly at the intersection of work I have previously led in banking, identity verification, and large-scale social systems.
-The technical and regulatory components of **AssetFlow** are all areas where I have shipped production systems at scale, which significantly reduces execution risk for this proposal.
+## De-Risk
+
+I am building **AssetFlow** based on my experience in **banking**, **fintech**, **payments infrastructure**, **identity systems**, and **social platforms**.
+
+I am a veteran technologist in these areas, with a deep understanding of how these industries and technologies work.
+As well as a knowhow of how to navigate the regulatory environments in which they exist in.
+
+I have already successfully created a number of services in this space, now used by millions of people:
+
+* the **neo-bank** *Koho* — the largest fintech in Canada
+* the **identity verification service** *Trulioo* — one of the two major IVSes in Canada
+
+The **AssetFlow** project directly sits at the intersection my existing compentancies.
+And, is similar to woork I have previously done and led in banking, identity verification, and large-scale social systems.
+
+The technical and regulatory components of **AssetFlow** are all areas where I have shipped production systems at scale.
+
+These all significantly reduce execution risk for this proposal.
 
 ## Need
 
