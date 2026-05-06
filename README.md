@@ -15,4 +15,7 @@
 
 ## Sustainability
 
+This project (**AssetFlow**) is a **bootstrapping** project.
+It brings into existence a **general-purpose technology** (**GPT**) that unlocks a wide range of other innovations and systems once it exists.
+
 ## Interledger
