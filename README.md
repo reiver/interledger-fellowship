@@ -1,28 +1,43 @@
-# Interledger Fellowship Application (2026-05): Charles Iliya Krempeaux
+<hgroup>
+	<h1>Interledger Fellowship Application (2026-05): Charles Iliya Krempeaux</h1>
+	<p>by Charles Iliya Krempeaux, B.Sc.</p>
+</hgroup>
 
 ## Abstract
 
-AssetFlow is a technology to enable **native** payments for the **Fediverse** and the **Social Web**.
+The Fediverse can connect people in meaningful ways and through that we can make a more just, equitable and sustainable world.
+
+**Fediverse-native payments** can help people exchange value as seamlessly as they exchange ideas, enabling more direct, inclusive, and resilient economic relationships that support a more equitable and open digital commons, while advancing economic inclusion and delivering broader societal benefit.
+
+This vision is being realized through a project called **AssetFlow**, which aims to bring **Fediverse-native payments** into practice.
+
+**AssetFlow** will leverage **Interledger** technologies to enable open, interoperable value exchange across networks, aligning financial interaction with the same principles of openness and decentralization that underpin the Fediverse.
 
 ## Fellow
 
-**Charles Iliya Krempeaux, B.Sc.** is a **product leader**, an **engineering leader**,and a **founder**.
+I am **Charles Iliya Krempeaux, B.Sc.**, a **product leader**, a **engineering leader**, and **founder** working at the intersection of **payments**, **identity**, and the **Social Web**.
 
-He has a deep history in **banking**, **fintech**, **payments**, **compliance** (**AML**, **KYC**, **PEP**), and **social-media**.
+My background includes **banking**, **fintech**, **payments infrastructure**, **compliance** (**AML**, **KYC**, **PEP**), and **social-media platforms**, with a focus on building systems that support trust, interoperability, and user agency.
 
-He is also a **Fediverse developer**, the organizer of **FediCon**, and a **Social Web advocate**.
+I am a **Fediverse developer**, organizer of **FediCon**, and an active advocate for the **Social Web and open, decentralized infrastructure**.
 
-Charles' formal educatonal background is in **computer science**, **mathematics**, **AI**, and **cryptography**.
+My formal academic background is in **computer science**, **mathematics**, **artificial intelligence** (**AI**), and **cryptography**, which informs my systems-oriented approach to building financial and social technologies.
 
-Some *relevant* highlight of his career:
+**Selected career highlights**
 
-Charles built Canada's *first* and now *largest* neo-bank, **Koho Financial**, where he was the founding CTO.
-
-Charles was *one of the first engineers* at the social-media company **Hootsuite**.
-
-And, Charles was the original *head of engineering* at the identity verification service: **Trulioo**.
+* Founding CTO of **Koho Financial**, where I build Canada’s first neo-bank
+* Early engineering at the social-media company Hootsuite, contributing to its early scale
+* Head of engineering at Trulioo, working on global identity verification systems
+* Principal software engineer at Electronic Arts (EA)
+* Founding engineer of a startup acquired by Microsoft
+* Contributor to the WHATWG standards working group
+* Co-author of a software engineering book
 
 ## Introduction
+
+**AssetFlow** is a technology to enable **native** payments for the **Fediverse** and the **Social Web**.
+
+**AssertFlow** is a **general-purpose technology** (**GPT**) that unlocks a wide range of other innovations and systems once it exists — as well as being a tool for **economic inclusion** and **societal benefit**.
 
 ## Economic Inclusion
 
