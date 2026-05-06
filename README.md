@@ -71,16 +71,22 @@ As well as a knowhow of how to navigate the regulatory environments in which the
 I have already successfully created services in this space, now used by millions of people:
 
 * the **neo-bank** *Koho* — the largest fintech in Canada
-* the **identity verification service** *Trulioo* — one of the two major IVSes in Canada
+* the **identity verification service** (IVS) *Trulioo* — one of the two major IVSes in Canada
 
 **I.e., I literally created both a *neo-bank* and a *identity verification service* from scratch.**
 
 The **AssetFlow** project directly sits at the intersection my existing compentancies.
 And, is similar to work I have previously done and led in banking, identity verification, and large-scale social systems.
 
+* As the founding CTO at Koho I led architecture and engineering of **regulated** consumer financial systems at **national scale** — which is directly relevant to designing compliant, interoperable payment flows in AssetFlow
+* As the head of engineering at Trulioo I built global identity verification infrastructure — this informs AssetFlow’s approach to resolving identity (Fediverse IDs) into financial endpoints
+* As a contributor to WHATWG standards I have experience in cross-organizational protocol design — which is relevant to defining interoperable Fediverse-native payment standards
+* As someone with a formal background in cryptography I have experience applying cryptography — which is relevant to creating Fediverse-native payment standards that bring the safety and secuity that proper use of cryptography brings
+* As an engineer at social-media Hootsuite I build systems that can handle social-media at scale — which is relevant to designing a Fediverse-native payment system that can scale.
+
 The technical and regulatory components of **AssetFlow** are all areas where I have shipped production systems at scale.
 
-These all significantly reduce execution risk for this proposal.
+**These all significantly reduce execution risk for this proposal.**
 
 ## Need
 
