@@ -52,6 +52,10 @@ For creators, making a living often means relying on platforms like YouTube, Tik
 This creates a structural vulnerability: access to audiences — and therefore income — can be lost overnight due to account suspensions, policy changes, or opaque moderation decisions.
 In some cases, entire channels disappear without recourse, severing critical economic relationships.
 
+Even peer-to-peer marketplaces such as eBay and Facebook Marketplace extend this pattern of platform dependence, where individuals and small businesses rely on centralized systems for listing, discovery, and transaction flow.
+Sellers can face sudden account restrictions, delisting, or reduced visibility through opaque ranking and enforcement mechanisms, often with limited transparency or recourse
+As a result, access to buyers and income streams remains mediated by platform policies and algorithms, reinforcing structural dependence on intermediaries even in ostensibly decentralized or peer-to-peer commerce environments.
+
 This fragility extends across the broader Web.
 
 Large marketplaces such as Amazon, Alibaba, and eBay control significant portions of online commerce, with the ability to remove products or sellers unilaterally.
@@ -65,7 +69,7 @@ A more open and decentralized approach to social commerce is needed—one where 
 
 All social commerce should not be controlled by a small number of powerful corporations.
 
-## Potential for Impact
+## Impact
 
 **AssetFlow** introduces a payments layer that can operate natively within the Fediverse, allowing creators and communities to exchange value within the same environments where social interaction already occurs. This reduces reliance on platform-specific monetization systems used by services such as YouTube, TikTok, and Instagram.
 
