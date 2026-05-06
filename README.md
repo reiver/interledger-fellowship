@@ -1,13 +1,28 @@
-<hgroup>
-	<h1>Interledger Fellowship Application (2026-05): Charles Iliya Krempeaux</h1>
-	<p>AssetFlow, Fediverse Payment, Social Web Payments</p>
-</hgroup>
+# Interledger Fellowship Application (2026-05): Charles Iliya Krempeaux
 
 ## Abstract
 
-## Introduction
+AssetFlow is a technology to enable **native** payments for the **Fediverse** and the **Social Web**.
 
 ## Fellow
+
+**Charles Iliya Krempeaux, B.Sc.** is a **product leader**, an **engineering leader**,and a **founder**.
+
+He has a deep history in **banking**, **fintech**, **payments**, **compliance** (**AML**, **KYC**, **PEP**), and **social-media**.
+
+He is also a **Fediverse developer**, the organizer of **FediCon**, and a **Social Web advocate**.
+
+Charles' formal educatonal background is in **computer science**, **mathematics**, **AI**, and **cryptography**.
+
+Some *relevant* highlight of his career:
+
+Charles built Canada's *first* and now *largest* neo-bank, **Koho Financial**, where he was the founding CTO.
+
+Charles was *one of the first engineers* at the social-media company **Hootsuite**.
+
+And, Charles was the original *head of engineering* at the identity verification service: **Trulioo**.
+
+## Introduction
 
 ## Economic Inclusion
 
