@@ -21,6 +21,8 @@ The deliverables of the **AssetFlow** project is:
 * AssetFlow SDK for Go, PHP, Ruby, TypeScript
 * AssetFlow integration (patch) for Mastodon, Pixelfed, Loops, PeerTube, WriteFreely
 
+And, through this, the ability for `@alice@example.com` to send funds to `@bob@host.example` just by using his Fedivese ID, without having to deal with or even know about Bob's IBAN, sort-code, account-number, routing-number, etc.
+
 ## Fellow
 
 I am **Charles Iliya Krempeaux, B.Sc.**, a **product leader**, a **engineering leader**, and **founder** working at the intersection of **payments**, **identity**, and the **Social Web**.
@@ -97,8 +99,8 @@ Once the **AssetFlow** technologies exist, and are integrated into popular extan
 
 ## Interledger
 
-**AssetFlow** is a protocol for Fediverse-payments that integrates with the extant Fedivese technology suite:
-ActvityPub, ActvityStreams, JSON-LD, WebFinger, etc.
+**AssetFlow** is a protocol for Fediverse-native payments that integrates with the extant Fedivese technology suite:
+acct-URI, ActvityPub, ActvityStreams, Ed25519, Fediverse IDs, JSON-LD, WebFinger, etc.
 
 **AssetFlow** will resolve a transfer from Fediverse ID `@alice@example.com` to `@bob@host.example` to Interledger technologies.
-And leverage it for the actual transfer.
+And, leverage it for the actual transfer.
