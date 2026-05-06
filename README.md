@@ -50,7 +50,7 @@ Yet participation in these economies is increasingly mediated by a small number 
 
 For creators, making a living often means relying on platforms like YouTube, TikTok, or Instagram.
 This creates a structural vulnerability: access to audiences — and therefore income — can be lost overnight due to account suspensions, policy changes, or opaque moderation decisions.
-In some cases, entire channels disappear without recourse, severing critical economic relationships.
+In some cases, entire channels disappear without recourse, severing critical economic relationships, and loss of ones (sometimes only) source of income.
 
 Even peer-to-peer marketplaces such as eBay and Facebook Marketplace extend this pattern of platform dependence, where individuals and small businesses rely on centralized systems for listing, discovery, and transaction flow.
 Sellers can face sudden account restrictions, delisting, or reduced visibility through opaque ranking and enforcement mechanisms, often with limited transparency or recourse
