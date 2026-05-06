@@ -78,11 +78,11 @@ I have already successfully created services in this space, now used by millions
 The **AssetFlow** project directly sits at the intersection my existing compentancies.
 And, is similar to work I have previously done and led in banking, identity verification, and large-scale social systems.
 
-* As the founding CTO at Koho I led architecture and engineering of **regulated** consumer financial systems at **national scale** — which is directly relevant to designing compliant, interoperable payment flows in AssetFlow
-* As the head of engineering at Trulioo I built global identity verification infrastructure — this informs AssetFlow’s approach to resolving identity (Fediverse IDs) into financial endpoints
-* As a contributor to WHATWG standards I have experience in cross-organizational protocol design — which is relevant to defining interoperable Fediverse-native payment standards
-* As someone with a formal background in cryptography I have experience applying cryptography — which is relevant to creating Fediverse-native payment standards that bring the safety and secuity that proper use of cryptography brings
-* As an engineer at social-media Hootsuite I build systems that can handle social-media at scale — which is relevant to designing a Fediverse-native payment system that can scale.
+* As the founding CTO at Koho I led architecture and engineering of **regulated** consumer financial systems at **national scale** — which is directly relevant to designing compliant, interoperable payment flows in **AssetFlow**.
+* As the head of engineering at Trulioo I built global identity verification infrastructure — this informs how to deal with regulatory compliance.
+* As a contributor to WHATWG standards I have experience in cross-organizational protocol design — which is relevant to defining interoperable Fediverse-native payment standards.
+* As someone with a formal background in cryptography I have experience correctly applying cryptography — which is knowing where to use cryptography to make a Fediverse-native payments system safer and more secure.
+* As an engineer at social-media Hootsuite I build systems that can handle social-media at massive scale — which is relevant to designing a Fediverse-native payment system that can scale and be performant.
 
 The technical and regulatory components of **AssetFlow** are all areas where I have shipped production systems at scale.
 
