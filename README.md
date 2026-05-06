@@ -71,7 +71,13 @@ All social commerce should not be controlled by a small number of powerful corpo
 
 ## Impact
 
-**AssetFlow** introduces a payments layer that can operate natively within the Fediverse, allowing creators and communities to exchange value within the same environments where social interaction already occurs. This reduces reliance on platform-specific monetization systems used by services such as YouTube, TikTok, and Instagram.
+**AssetFlow** introduces a payments layer that can operate natively within the Fediverse, allowing creators and communities to exchange value within the same environments where social interaction already occurs.
+
+More specifically, it allows Fediverse IDs (such as `@alice@example.com` and `@bob@host.example`) to be the source and destination of a money transfer, without having to be deal with the lower-level payment rail details.
+I.e., it allows `@alice@example.com` to send money to `@bob@host.example` without having to deal with Bob's IBAN, sort-code, account-number, routing-number, etc.
+All she needs is his Fediverse ID (`@bob@host.example`).
+
+This reduces reliance on platform-specific monetization systems used by services such as YouTube, TikTok, Meta, etc.
 
 By embedding value exchange into interoperable social protocols, AssetFlow can reduce dependence on centralized intermediaries for payment processing, distribution, and monetization. This may increase resilience for creators whose livelihoods depend on maintaining access to audiences across platform boundaries.
 
@@ -90,3 +96,7 @@ It brings into existence a **general-purpose technology** (**GPT**) that unlocks
 Once the **AssetFlow** technologies exist, and are integrated into popular extant Socal Web and Fediverse software, it unlocks a wide range of other innovations and systems — as well as being a tool for **economic inclusion** and **societal benefit**.
 
 ## Interledger
+
+**AssetFlow** is a protocol for Fediverse-payments that integrates with the extant Fedivese technology suite:
+ActvityPub, ActvityStreams, JSON-LD, WebFinger, etc.
+
