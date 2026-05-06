@@ -59,7 +59,7 @@ My formal academic background is in **computer science**, **mathematics**, **art
 * Contributor to the **WHATWG** standards working group
 * Co-author of a software engineering book
 
-I am building **AssetFlow** based on a combination of experience in **payments infrastructure**, **identity systems**, and **social platforms**.
+I am building **AssetFlow** based on a combination of experience in **banking**, **fintech**, **payments infrastructure**, **identity systems**, and **social platforms**.
 This project sits directly at the intersection of work I have previously led in banking, identity verification, and large-scale social systems.
 The technical and regulatory components of **AssetFlow** are all areas where I have shipped production systems at scale, which significantly reduces execution risk for this proposal.
 
