@@ -3,6 +3,8 @@
 	<p>by Charles Iliya Krempeaux, B.Sc.</p>
 </hgroup>
 
+# AssetFlow: Fediverse-Native Payments and Asset Transfer
+
 ## Abstract
 
 The Fediverse can connect people all across the world in meaningful ways — and through that we can make a more just, equitable and sustainable world.
