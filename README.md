@@ -116,7 +116,7 @@ Over time, this can help shift online economic participation from platform-const
 ## Interledger
 
 **AssetFlow** defines Fediverse-native payments in terms of the Fedivese's technology suite:
-acct-URI, ActvityPub, ActvityStreams, Ed25519, Fediverse IDs, JSON-LD, WebFinger, etc.
+acct-URI, ActivityPub, ActvityStreams, Ed25519, Fediverse IDs, JSON-LD, WebFinger, etc.
 
 **AssetFlow** uses **Interledger** as its settlement and transport layer for cross-network value exchange.
 
