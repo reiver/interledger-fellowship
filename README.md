@@ -115,11 +115,24 @@ Over time, this can help shift online economic participation from platform-const
 
 ## Interledger
 
-**AssetFlow** is a protocol for Fediverse-native payments that integrates with the extant Fedivese technology suite:
+**AssetFlow** defines Fediverse-native payments in terms of the Fedivese's technology suite:
 acct-URI, ActvityPub, ActvityStreams, Ed25519, Fediverse IDs, JSON-LD, WebFinger, etc.
 
-**AssetFlow** will resolve a transfer from Fediverse ID `@alice@example.com` to `@bob@host.example` to Interledger technologies.
-And, leverage it for the actual transfer.
+**AssetFlow** uses **Interledger** as its settlement and transport layer for cross-network value exchange.
+
+Within the Fediverse, payments are initiated using familiar identity primitives such as Fediverse IDs (e.g., `@alice@example.com`).
+However, these identifiers do not themselves represent payment accounts or financial rails.
+
+To execute a transfer, **AssetFlow** resolves the recipient and sender identities into underlying payment capabilities, and routes the resulting transaction through Interledger protocols.
+
+Interledger provides a network-agnostic way to move value across heterogeneous financial systems.
+This allows **AssetFlow** to bridge:
+
+* traditional banking networks
+* digital wallets and fintech APIs
+* emerging or local payment systems
+
+By separating identity (Fediverse) from settlement (Interledger), **AssetFlow** preserves the social-native model of addressing while leveraging existing global payment infrastructure for execution.
 
 ## Sustainability
 
