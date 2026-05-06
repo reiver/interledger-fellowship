@@ -90,13 +90,6 @@ As interoperability increases, new forms of social and economic interaction may 
 
 ## Economic Inclusion
 
-## Sustainability
-
-This project (**AssetFlow**) is a **bootstrapping** project — it is a project to bring a technology into existence.
-It brings into existence a **general-purpose technology** (**GPT**) that unlocks a wide range of other innovations and systems once it exists.
-
-Once the **AssetFlow** technologies exist, and are integrated into popular extant Socal Web and Fediverse software, it unlocks a wide range of other innovations and systems — as well as being a tool for **economic inclusion** and **societal benefit**.
-
 ## Interledger
 
 **AssetFlow** is a protocol for Fediverse-native payments that integrates with the extant Fedivese technology suite:
@@ -104,3 +97,14 @@ acct-URI, ActvityPub, ActvityStreams, Ed25519, Fediverse IDs, JSON-LD, WebFinger
 
 **AssetFlow** will resolve a transfer from Fediverse ID `@alice@example.com` to `@bob@host.example` to Interledger technologies.
 And, leverage it for the actual transfer.
+
+## Sustainability
+
+This project (**AssetFlow**) is similar to the creation of HTTP — a **bootstrapping** project — a project to bring a technology into existence and use.
+It is a project to create a protocol, and to create the initial implementations.
+
+Once the **AssetFlow** project has been completed, the ability to transfer funds from `@alice@example.com` to `@bob@host.example` (resolving to Interledger technologies) will be available to Mastodon, Pixelfed, Loops, PeerTube, and WriteFreely users.
+
+It will exist.
+And, people will use it.
+And, it will bring into existence a **general-purpose technology** (**GPT**) that unlocks a wide range of other innovations and systems once it exists.
