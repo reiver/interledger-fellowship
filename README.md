@@ -6,8 +6,11 @@
 # AssetFlow: Fediverse-Native Payments and Asset Transfer
 
 **AssetFlow** is a project to create **Fediverse-native payments** that will make use of **Interledger** technologies for settlement.
+I.e.:
 
-I.e., the ability for `@alice@example.com` to send funds to `@bob@host.example` just by using his Fedivese ID — without having to deal with or even know about Bob's IBAN, sort-code, account-number, routing-number, etc. And, for (new) *primitives* to be created that can (for instance) represent *commerce* in a Fediverse-native way within the ActivityPub, ActivityStreams, and JSON-LD protocols/formats.
+1. the ability for `@alice@example.com` to send funds to `@bob@host.example` just by using his Fedivese ID — without having to deal with or even know about Bob's IBAN, sort-code, account-number, routing-number, etc;
+2. the creation and definition of (new) *primitives* that can be used (for instance) to represent *commerce* in a Fediverse-native way within the ActivityPub, ActivityStreams, and JSON-LD protocols/formats;
+3. the inclusion of proven cryptographic tools for identity, authentication, and authorization.
 
 ## Objective
 
