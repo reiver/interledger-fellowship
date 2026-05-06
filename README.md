@@ -67,13 +67,14 @@ All social commerce should not be controlled by a small number of powerful corpo
 
 ## Potential for Impact
 
-**AssetFlow** gives the creator an option other than YouTube, TikTok, and Instagram.
-**AssetFlow** pull *total control** away from a small number of powerful corporations.
+**AssetFlow** introduces a payments layer that can operate natively within the Fediverse, allowing creators and communities to exchange value within the same environments where social interaction already occurs. This reduces reliance on platform-specific monetization systems used by services such as YouTube, TikTok, and Instagram.
 
-The completion of the **AssetFlow** project overcomes the **coordination problem** and the **cold start problem** — by deploying **AssetFlow** to a large subset of the Fediverse.
-And, through **network effects**, giving others an incentive to adopt it, too.
+By embedding value exchange into interoperable social protocols, AssetFlow can reduce dependence on centralized intermediaries for payment processing, distribution, and monetization. This may increase resilience for creators whose livelihoods depend on maintaining access to audiences across platform boundaries.
 
-The completion of the **AssetFlow** project creates a **general-purpose technology** (**GPT**) that unlocks a wide range of other innovations and systems once it exists.
+Adoption across Fediverse applications can occur incrementally, as each integration expands the set of participants capable of sending and receiving payments.
+Over time, this can help address coordination and cold-start challenges common to networked financial systems, where utility increases as more services participate.
+
+As interoperability increases, new forms of social and economic interaction may emerge within the Fediverse, including creator-supported communities, cross-platform commerce, and programmable or contextual payments embedded directly in social activity.
 
 ## Economic Inclusion
 
