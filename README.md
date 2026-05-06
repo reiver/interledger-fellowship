@@ -9,7 +9,7 @@
 
 The Fediverse can connect people all across the world in meaningful ways — and through that we can make a more just, equitable and sustainable world.
 
-**Fediverse-native payments** can help people exchange value as seamlessly as they exchange ideas — enabling more direct, accessible, inclusive, and resilient economic relationships that support a more equitable and open digital commons, while advancing **economic inclusion** and delivering broader **societal benefit**.
+<b><u>Fediverse-native payments</u> can help people exchange value as seamlessly as they exchange ideas</b> — enabling more direct, accessible, inclusive, and resilient economic relationships that support a more equitable and open digital commons, while advancing **economic inclusion** and delivering broader **societal benefit**.
 
 **Fediverse-native payments** open the door to forms of commerce that are not mediated by centralized gatekeepers — allowing people to build livelihoods, support their families, and participate in the global economy on their own terms.
 This shifts economic power away from a handful of powerful corporations and toward the communities and individuals who create value in the first place.
@@ -18,7 +18,7 @@ Thus protecting their livelihoods by reducing risk brought on by dependence on t
 **Fediverse-native payments** are also a way of future-proofing the digital economy at a moment of profound technological shift.
 We are at the beginning of a new era of *human–computer interaction*, defined by AI-powered agents that can act, decide, and transact on behalf of individuals — giving rise to what can be understood as **agentic commerce**.
 Today, a small number of companies are already competing to control the infrastructure and interfaces through which these agents will operate.
-If that control consolidates, we risk recreating the same concentration of power that has defined previous generations of the internet — with a handful of corporations mediating access, extracting value, and setting the rules.
+If that control consolidates, we risk recreating the same concentration of power that has defined previous generations of the Internet — with a handful of corporations mediating access, extracting value, and setting the rules.
 **Fediverse-native payments**, by contrast, offer an open, interoperable commerce layer that agents can use without reliance on centralized gatekeepers — ensuring that this next phase of the Internet remains pluralistic, competitive, and aligned with the interests of the people and communities it serves.
 
 This vision is being realized through a project called **AssetFlow**, which aims to bring **Fediverse-native payments** into practice.
