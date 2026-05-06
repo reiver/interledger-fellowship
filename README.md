@@ -11,6 +11,8 @@ The Fediverse can connect people all across the world in meaningful ways — and
 
 **Fediverse-native payments** can help people exchange value as seamlessly as they exchange ideas — enabling more direct, accessible, inclusive, and resilient economic relationships that support a more equitable and open digital commons, while advancing **economic inclusion** and delivering broader **societal benefit**.
 
+**Fediverse-native payments** also empowers people to earn a living and support their families *outside* the control of a small number of powerful corporations and their centralized platforms — thus protecting livelihoods by reducing the risks brought on by dependence on these gatekeepers, and their arbitrary account suspensions or shifting platform policies.
+
 This vision is being realized through a project called **AssetFlow**, which aims to bring **Fediverse-native payments** into practice.
 
 **AssetFlow** will leverage **Interledger** technologies to enable open, interoperable value exchange across networks, aligning financial interaction with the same principles of openness and decentralization that underpin the Fediverse.
