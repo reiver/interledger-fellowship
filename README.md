@@ -83,7 +83,7 @@ This reduces reliance on platform-specific monetization systems used by services
 
 By embedding value exchange into interoperable social protocols, AssetFlow can reduce dependence on centralized intermediaries for payment processing, distribution, and monetization. This may increase resilience for creators whose livelihoods depend on maintaining access to audiences across platform boundaries.
 
-Adoption across Fediverse applications can occur incrementally, as each integration expands the set of participants capable of sending and receiving payments.
+Adoption across Fediverse will start with the 5 initial applications, and then occur incrementally, as each integration expands the set of participants capable of sending and receiving payments.
 Over time, this can help address coordination and cold-start challenges common to networked financial systems, where utility increases as more services participate.
 
 As interoperability increases, new forms of social and economic interaction may emerge within the Fediverse, including creator-supported communities, cross-platform commerce, and programmable or contextual payments embedded directly in social activity.
