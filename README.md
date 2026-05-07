@@ -8,15 +8,15 @@
 **AssetFlow** is a project to create **Fediverse-native payments** that will make use of **Interledger** technologies for settlement.
 I.e.:
 
-1. the ability for `@alice@example.com` to send funds to `@bob@host.example` just by using his Fedivese ID — without having to deal with or even know about Bob's IBAN, sort-code, account-number, routing-number, etc;
+1. the ability for `@alice@example.com` to send funds to `@bob@host.example` just by using his Fediverse ID — without having to deal with or even know about Bob's IBAN, sort-code, account-number, routing-number, etc;
 2. the creation and definition of (new) *primitives* that can be used (for instance) to represent *commerce* in a Fediverse-native way within the ActivityPub, ActivityStreams, and JSON-LD protocols/formats;
 3. the inclusion of proven cryptographic tools for identity, authentication, and authorization.
 
 ## Objective
 
-The deliverables of the **AssetFlow** project is:
+The deliverables of the **AssetFlow** project are:
 
-* **AssertFlow specification** — defined in terms of the Fediverse technology suite of *acct-URI*, *ActivityPub*, *ActivityStreams*, *Ed25519*, *Fediverse IDs*, *JSON-LD*, *WebFinger*, etc, and how *Interledger* technologies are used
+* **AssetFlow specification** — defined in terms of the Fediverse technology suite of *acct-URI*, *ActivityPub*, *ActivityStreams*, *Ed25519*, *Fediverse IDs*, *JSON-LD*, *WebFinger*, etc, and how *Interledger* technologies are used
 * **AssetFlow SDK** (open-source) for Go, PHP, Ruby, TypeScript
 * **AssetFlow integration** (patch) for Mastodon, Pixelfed, Loops, PeerTube, WriteFreely
 
@@ -56,14 +56,14 @@ I have already successfully created services in this space, now used by millions
 
 **I.e., I literally created both a *neo-bank* and a *identity verification service* from scratch.**
 
-The **AssetFlow** project directly sits at the intersection my existing compentancies.
+The **AssetFlow** project directly sits at the intersection my existing competencies.
 And, is similar to work I have previously done and led in banking, identity verification, and large-scale social systems.
 
 * As the founding CTO at Koho I led architecture and engineering of **regulated** consumer financial systems at **national scale** — which is directly relevant to designing compliant, interoperable payment flows in **AssetFlow**.
 * As the head of engineering at Trulioo I built global identity verification infrastructure — this informs how to deal with regulatory compliance.
 * As a contributor to WHATWG standards I have experience in cross-organizational protocol design — which is relevant to defining interoperable Fediverse-native payment standards.
 * As someone with a formal background in cryptography I have experience correctly applying cryptography — which is knowing where to use cryptography to make a Fediverse-native payments system safer and more secure.
-* As an engineer at social-media Hootsuite I build systems that can handle social-media at massive scale — which is relevant to designing a Fediverse-native payment system that can scale and be performant.
+* As an engineer at social-media Hootsuite I built systems that can handle social-media at massive scale — which is relevant to designing a Fediverse-native payment system that can scale and be performant.
 
 The technical and regulatory components of **AssetFlow** are all areas where I have shipped production systems at scale.
 
@@ -93,7 +93,7 @@ Taken together, this concentration of power limits economic agency and reduces t
 
 **AssetFlow** introduces a payments layer that can operate natively within the Fediverse, allowing creators and communities to exchange value within the same environments where social interaction already occurs.
 
-More specifically, it allows Fediverse IDs (such as `@alice@example.com` and `@bob@host.example`) to be the source and destination of a money transfer, without having to be deal with the lower-level payment rail details.
+More specifically, it allows Fediverse IDs (such as `@alice@example.com` and `@bob@host.example`) to be the source and destination of a money transfer, without having to deal with the lower-level payment rail details.
 I.e., it allows `@alice@example.com` to send money to `@bob@host.example` without having to deal with Bob's IBAN, sort-code, account-number, routing-number, etc.
 All she needs is his Fediverse ID (`@bob@host.example`).
 
@@ -133,7 +133,7 @@ Over time, this can help shift online economic participation from platform-const
 
 ## Interledger
 
-**AssetFlow** defines Fediverse-native payments in terms of the Fedivese's technology suite:
+**AssetFlow** defines Fediverse-native payments in terms of the Fediverse's technology suite:
 acct-URI, ActivityPub, ActivityStreams, Ed25519, Fediverse IDs, JSON-LD, WebFinger, etc.
 
 **AssetFlow** uses **Interledger** as its settlement and transport layer for cross-network value exchange.
