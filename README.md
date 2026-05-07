@@ -54,9 +54,9 @@ I have already successfully created services in this space, now used by millions
 * the **neo-bank** *Koho* — the largest fintech in Canada
 * the **identity verification service** (IVS) *Trulioo* — one of the two major IVSes in Canada
 
-**I.e., I literally created both a *neo-bank* and a *identity verification service* from scratch.**
+**I.e., I literally created both a *neo-bank* and an *identity verification service* from scratch.**
 
-The **AssetFlow** project directly sits at the intersection my existing competencies.
+The **AssetFlow** project directly sits at the intersection of my existing competencies.
 And, is similar to work I have previously done and led in banking, identity verification, and large-scale social systems.
 
 * As the founding CTO at Koho I led architecture and engineering of **regulated** consumer financial systems at **national scale** — which is directly relevant to designing compliant, interoperable payment flows in **AssetFlow**.
@@ -186,7 +186,7 @@ If that control consolidates, we risk recreating the same concentration of power
 **Fediverse-native payments**, by contrast, offer an open, interoperable commerce layer that agents can use without reliance on centralized gatekeepers — ensuring that this next phase of the Internet remains pluralistic, competitive, and aligned with the interests of the people and communities it serves.
 
 **Fediverse-native payments** have the potential to be as transformative as **mobile money** was across parts of Africa, where services like M-Pesa dramatically expanded financial access for millions who had been excluded from traditional banking systems.
-Just as mobile money used simple mobile phones and local agent networks to bring millions of unbanked people into basic financial services, Fediverse-native payments use of Social Web infrastructure lets anyone who can communicate also send, receive, and earn money directly.
+Just as mobile money used simple mobile phones and local agent networks to bring millions of unbanked people into basic financial services, Fediverse-native payments' use of Social Web infrastructure lets anyone who can communicate also send, receive, and earn money directly.
 This lowers barriers for underbanked or excluded communities, reduces dependence on gatekeeper platforms that can restrict access or change rules arbitrarily, and enables more resilient, peer-to-peer economic participation where individuals and small communities can take part in global commerce on their own terms.
 
 This vision is being realized through a project called **AssetFlow**, which aims to bring **Fediverse-native payments** into practice.
