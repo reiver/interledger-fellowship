@@ -185,7 +185,7 @@ Today, a small number of companies are already competing to control the infrastr
 If that control consolidates, we risk recreating the same concentration of power that has defined previous generations of the Internet — with a handful of corporations mediating access, extracting value, and setting the rules.
 **Fediverse-native payments**, by contrast, offer an open, interoperable commerce layer that agents can use without reliance on centralized gatekeepers — ensuring that this next phase of the Internet remains pluralistic, competitive, and aligned with the interests of the people and communities it serves.
 
-**Fediverse-native payments** have the potential to be as transformative as **mobile money** was across parts of Africa, where services like M-Pesa dramatically expanded financial access for millions who had been excluded from traditional banking systems.
+**Fediverse-native payments** have the potential to be as transformative as **mobile money** was across parts of Africa, where services like **M-Pesa** dramatically expanded financial access for millions who had been excluded from traditional banking systems.
 Just as mobile money used simple mobile phones and local agent networks to bring millions of unbanked people into basic financial services, Fediverse-native payments' use of Social Web infrastructure lets anyone who can communicate also send, receive, and earn money directly.
 This lowers barriers for underbanked or excluded communities, reduces dependence on gatekeeper platforms that can restrict access or change rules arbitrarily, and enables more resilient, peer-to-peer economic participation where individuals and small communities can take part in global commerce on their own terms.
 
