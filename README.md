@@ -169,6 +169,37 @@ In this sense, the **AssetFlow** project is designed to “bootstrap” a capabi
 
 Over time, this capability becomes a general-purpose building block for new forms of social and economic interaction across the Open Social Web.
 
+## Community and Alignment
+
+**AssetFlow** sits at the intersection of two open ecosystems that share deeply compatible values: the **Fediverse** and **Interledger** communities.
+
+Both ecosystems are built around interoperability, decentralization, user agency, open standards, and reducing dependence on centralized gatekeepers.
+The Fediverse has focused on open social communication and identity, while Interledger has focused on open, interoperable value transfer across financial networks.
+**AssetFlow** connects these two layers together.
+
+With **AssetFlow**, the success of the Fediverse and the success of Interledger become increasingly interconnected.
+
+This alignment creates greater opportunities for collaboration and brings these communities together.
+
+As the organizer of FediCon, a public speaker, and an active advocate for the open Social Web, I already engage with
+Fediverse developers,
+instance operators,
+standards practitioners,
+members of government,
+corporate executives,
+journalists,
+and more.
+Through **AssetFlow**, this advocacy work naturally extends to the **Interledger** ecosystem — as a direct consequence of the technology itself.
+Presenting **AssetFlow** at Fediverse events means talking about and promoting **Interledger**.
+Writing about Fediverse-native payments means writing about Interledger.
+
+The communities connect through shared work.
+
+This creates a durable channel between two ecosystems that have complementary strengths:
+the Fediverse brings social infrastructure and a large, motivated user base;
+Interledger brings payment interoperability and financial inclusion.
+AssetFlow is where they meet.
+
 ## Conclusion
 
 The Fediverse can connect people all across the world in meaningful ways — and through that we can make a more just, equitable and sustainable world.
