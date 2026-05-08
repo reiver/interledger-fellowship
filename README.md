@@ -141,7 +141,7 @@ acct-URI, ActivityPub, ActivityStreams, Ed25519, Fediverse IDs, JSON-LD, WebFing
 Within the Fediverse, payments are initiated using familiar identity primitives such as Fediverse IDs (e.g., `@alice@example.com`).
 However, these identifiers do not themselves represent payment accounts or financial rails.
 
-To execute a transfer, **AssetFlow** resolves the recipient and sender identities into underlying payment capabilities, and routes the resulting transaction through Interledger protocols.
+To execute a transfer, **AssetFlow** resolves the recipient and sender identities into underlying payment capabilities, and routes the resulting transaction through **Interledger** protocols.
 
 Interledger provides a network-agnostic way to move value across heterogeneous financial systems.
 This allows **AssetFlow** to bridge:
@@ -159,7 +159,7 @@ By separating identity (Fediverse) from settlement (Interledger), **AssetFlow** 
 Like core Internet protocols such as HTTP or SMTP, its purpose is to establish a minimal, interoperable layer that enables others to build higher-level systems on top of it.
 
 Once deployed, **AssetFlow** is not a centralized system that must be continuously operated or governed as a single product.
-Instead, it becomes part of the broader Fediverse and Interledger ecosystem, where:
+Instead, it becomes part of the broader **Fediverse** and **Interledger** ecosystem, where:
 
 * new implementations can emerge independently
 * infrastructure diversity increases resilience
@@ -182,10 +182,10 @@ The **AssetFlow SDK** is open-source and, once stable, is expected to require mi
 **AssetFlow** sits at the intersection of two open ecosystems that share deeply compatible values: the **Fediverse** and **Interledger** communities.
 
 Both ecosystems are built around interoperability, decentralization, user agency, open standards, and reducing dependence on centralized gatekeepers.
-The Fediverse has focused on open social communication and identity, while Interledger has focused on open, interoperable value transfer across financial networks.
+The **Fediverse** has focused on open social communication and identity, while **Interledger** has focused on open, interoperable value transfer across financial networks.
 **AssetFlow** connects these two layers together.
 
-With **AssetFlow**, the success of the Fediverse and the success of Interledger become increasingly interconnected.
+With **AssetFlow**, the success of the **Fediverse** and the success of **Interledger** become increasingly interconnected.
 
 This alignment creates greater opportunities for collaboration and brings these communities together.
 
@@ -199,7 +199,7 @@ journalists,
 and more.
 Through **AssetFlow**, this advocacy work naturally extends to the **Interledger** ecosystem — as a direct consequence of the technology itself.
 Presenting **AssetFlow** at Fediverse events means talking about and promoting **Interledger**.
-Writing about Fediverse-native payments means writing about Interledger.
+Writing about **Fediverse-native payments** means writing about **Interledger**.
 
 The communities connect through shared work.
 
