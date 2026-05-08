@@ -171,7 +171,7 @@ Over time, this capability becomes a general-purpose building block for new form
 
 Each deliverable is designed to be sustained through existing open-source and standards institutions:
 
-The **AssetFlow specification** will be written up as a Fediverse Enhancement Proposal (FEP), and later submitted to the W3C, IETF, or a similar standards organization — giving it institutional stewardship and a path to formal standardization.
+The **AssetFlow specification** will be written up as a Fediverse Enhancement Proposal (FEP), and later (after a production *proving* period) submitted to the W3C, IETF, or a similar standards organization — giving it institutional stewardship and a path to formal standardization.
 
 The **AssetFlow integrations** are designed as upstream patches to be merged into the existing codebases of Mastodon, Pixelfed, Loops, PeerTube, and WriteFreely. I have existing relationships with the developers of several of these projects, which supports the likelihood of upstream acceptance. Once merged, maintenance becomes part of each project's normal development process.
 
