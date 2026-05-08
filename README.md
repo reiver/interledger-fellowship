@@ -169,6 +169,14 @@ In this sense, the **AssetFlow** project is designed to “bootstrap” a capabi
 
 Over time, this capability becomes a general-purpose building block for new forms of social and economic interaction across the Open Social Web.
 
+Each deliverable is designed to be sustained through existing open-source and standards institutions:
+
+The **AssetFlow specification** will be written up as a Fediverse Enhancement Proposal (FEP), and later submitted to the W3C, IETF, or a similar standards organization — giving it institutional stewardship and a path to formal standardization.
+
+The **AssetFlow integrations** are designed as upstream patches to be merged into the existing codebases of Mastodon, Pixelfed, Loops, PeerTube, and WriteFreely. I have existing relationships with the developers of several of these projects, which supports the likelihood of upstream acceptance. Once merged, maintenance becomes part of each project's normal development process.
+
+The **AssetFlow SDK** is open-source and, once stable, is expected to require minimal ongoing maintenance unless the specification itself evolves. As a developer with over 30 years of experience and an active open-source contributor since the 1990s, I am committed to the long-term stewardship of these libraries.
+
 ## Community and Alignment
 
 **AssetFlow** sits at the intersection of two open ecosystems that share deeply compatible values: the **Fediverse** and **Interledger** communities.
