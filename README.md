@@ -40,7 +40,7 @@ My formal academic background is in **computer science**, **mathematics**, **art
 * Contributor to the **WHATWG** standards working group
 * Co-author of a software engineering book
 
-## De-Risk
+## Feasibility
 
 Why am I uniquely positioned to build this‽
 
@@ -173,7 +173,7 @@ Each deliverable is designed to be sustained through existing open-source and st
 
 The **AssetFlow specification** will be written up as a Fediverse Enhancement Proposal (FEP), and later (after a production *proving* period) submitted to the W3C, IETF, or a similar standards organization — giving it institutional stewardship and a path to formal standardization.
 
-The **AssetFlow integrations** are designed as upstream patches to be merged into the existing codebases of Mastodon, Pixelfed, Loops, PeerTube, and WriteFreely. I have existing relationships with the developers of several of these projects, which supports the likelihood of upstream acceptance. Once merged, maintenance becomes part of each project's normal development process.
+The **AssetFlow integrations** are designed as upstream patches to be merged into the existing code-bases of Mastodon, Pixelfed, Loops, PeerTube, and WriteFreely. I have existing relationships with the developers of several of these projects, which supports the likelihood of upstream acceptance. Once merged, maintenance becomes part of each project's normal development process.
 
 The **AssetFlow SDK** is open-source and, once stable, is expected to require minimal ongoing maintenance unless the specification itself evolves. As a developer with over 30 years of experience and an active open-source contributor since the 1990s, I am committed to the long-term stewardship of these libraries.
 
