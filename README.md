@@ -22,7 +22,7 @@ The deliverables of the **AssetFlow** project are:
 
 ## Fellow
 
-I am **Charles Iliya Krempeaux, B.Sc.**, a **product leader**, a **engineering leader**, and **founder** working at the intersection of **payments**, **identity**, and the **Social Web**.
+I am **Charles Iliya Krempeaux, B.Sc.**, a **product leader**, an **engineering leader**, and **founder** working at the intersection of **payments**, **identity**, and the **Social Web**.
 
 My background includes **banking**, **fintech**, **payments infrastructure**, **compliance** (**AML**, **KYC**, **PEP**), and **social-media platforms**, with a focus on building systems that support trust, interoperability, and user agency.
 
